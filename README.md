@@ -1,6 +1,6 @@
 # basic 13 algorithms
 
-| #  | function         | // description.                                                                                                                                                                                     |
+| #  | function         | description                                                                                                                                                                                     |
 |----|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Get_1_to_255     | // Write a function that returns an array with all the numbers from 1 to 255.                                                                                                                                                                                     |
 | 2  | Get_even_1000    | // Write a function that would get the sum of all the even numbers from 1 to 1000. You may use a modulus operator for this exercise.                                                                                                                              |
